@@ -20,25 +20,27 @@ Here are some ideas to get you started:
 -->
 
 ## language
-![java](./imgs/language/java.svg)
-![python](./imgs/language/python.svg)
-![html](./imgs/language/html.svg)
+![java](./imgs/language/java.svg "java")
+![python](./imgs/language/python.svg "python")
+![html](./imgs/language/html.svg "html")
 
 ## db
-![mysql](./imgs/db/mysql.svg)
-![redis](./imgs/db/redis.svg)
-![mongodb](./imgs/db/mongodb.svg)
+![mysql](./imgs/db/mysql.svg "mysql")
+![redis](./imgs/db/redis.svg "redis")
+![mongodb](./imgs/db/mongodb.svg "mongodb")
 
 ## frameworks
-![springboot](./imgs/frameworks/springboot.svg)
-![dubbo](./imgs/frameworks/dubbo.svg)
-![JavaScript](./imgs/frameworks/JavaScript.svg)
-![Bootstrap](./imgs/frameworks/bootstrap.svg)
-![SpringCloud](./imgs/frameworks/SpringCloud.svg)
+![springboot](./imgs/frameworks/springboot.svg "springboot")
+![dubbo](./imgs/frameworks/dubbo.svg "dubbo")
+![JavaScript](./imgs/frameworks/JavaScript.svg "JavaScript")
+![Bootstrap](./imgs/frameworks/Bootstrap.svg "Bootstrap")
+![SpringCloud](./imgs/frameworks/SpringCloud.svg "SpringCloud")
 
 ## tools
-![intellijidea](./imgs/tools/intellijidea.svg)
-![pycharm](./imgs/tools/pycharm.svg)
-![vim](./imgs/tools/vim.svg)
-![dubbo](./imgs/tools/appium.svg)
+![intellijidea](./imgs/tools/intellijidea.svg "intellijidea")
+![pycharm](./imgs/tools/pycharm.svg "pycharm")
+![vim](./imgs/tools/vim.svg "vim")
+![dubbo](./imgs/tools/appium.svg "appium")
+![github](./imgs/tools/github.svg "github")
+![gitlab](./imgs/tools/gitlab.svg "gitlab")
 
