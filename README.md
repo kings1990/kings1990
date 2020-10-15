@@ -19,24 +19,24 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt)](https://github.com/kings1990)
 -->
 
-## language
+## Language
 ![java](./imgs/language/java.svg "java")
 ![python](./imgs/language/python.svg "python")
 ![html](./imgs/language/html.svg "html")
 
-## db
+## Database
 ![mysql](./imgs/db/mysql.svg "mysql")
 ![redis](./imgs/db/redis.svg "redis")
 ![mongodb](./imgs/db/mongodb.svg "mongodb")
 
-## frameworks
+## Frameworks
 ![springboot](./imgs/frameworks/springboot.svg "springboot")
 ![dubbo](./imgs/frameworks/dubbo.svg "dubbo")
 ![JavaScript](./imgs/frameworks/JavaScript.svg "JavaScript")
 ![Bootstrap](./imgs/frameworks/Bootstrap.svg "Bootstrap")
 ![SpringCloud](./imgs/frameworks/SpringCloud.svg "SpringCloud")
 
-## tools
+## Tools & SDKs
 ![intellijidea](./imgs/tools/intellijidea.svg "intellijidea")
 ![pycharm](./imgs/tools/pycharm.svg "pycharm")
 ![vim](./imgs/tools/vim.svg "vim")
