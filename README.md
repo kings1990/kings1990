@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![java](./imgs/language/java.svg "java")
 ![python](./imgs/language/python.svg "python")
 ![html](./imgs/language/html.svg "html")
+![JavaScript](./imgs/frameworks/JavaScript.svg "JavaScript")
 
 #### Database
 ![mysql](./imgs/db/mysql.svg "mysql")
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 ![cas](./imgs/frameworks/cas.png "cas")
 ![pac4j](./imgs/frameworks/pac4j.png "pac4j")
 
-![JavaScript](./imgs/frameworks/JavaScript.svg "JavaScript")
+
 ![jquery](./imgs/frameworks/jquery.svg "jquery")
 ![Bootstrap](./imgs/frameworks/Bootstrap.svg "Bootstrap")
 
