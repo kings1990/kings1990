@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt)](https://github.com/kings1990)
--->
 活到老学到老!
 
 加油!!!🤪
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt)](https://github.com/kings1990)
 
 #### Language
 ![java](./imgs/language/java.svg "java")
