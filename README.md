@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 ![jquery](./imgs/frameworks/jquery.svg "jquery")
 ![Bootstrap](./imgs/frameworks/Bootstrap.svg "Bootstrap")
-
 ![swagger](./imgs/frameworks/swagger.svg "swagger")
 
 #### Tools & SDKs
@@ -51,17 +50,14 @@ Here are some ideas to get you started:
 ![pycharm](./imgs/tools/pycharm.svg "pycharm")
 ![appium](./imgs/tools/appium.svg "appium")
 ![vim](./imgs/tools/vim.svg "vim")
-
 ![github](./imgs/tools/github.svg "github")
 ![gitlab](./imgs/tools/gitlab.svg "gitlab")
 
 ![docker](./imgs/tools/docker.svg "docker")
 ![nginx](./imgs/tools/nginx.svg "nginx")
 ![jenkins](./imgs/tools/jenkins.svg "jenkins")
-
 ![elastic](./imgs/tools/elastic.svg "elastic")
 ![logstash](./imgs/tools/logstash.svg "logstash")
 ![kibana](./imgs/tools/kibana.svg "kibana")
-
 ![maven](./imgs/tools/maven.svg "maven")
 ![nexus](./imgs/tools/nexus.svg "nexus")
