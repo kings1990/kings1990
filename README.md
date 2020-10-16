@@ -30,17 +30,35 @@ Here are some ideas to get you started:
 ![mongodb](./imgs/db/mongodb.svg "mongodb")
 
 ## Frameworks
+![mybatis](./imgs/frameworks/mybatis.png "mybatis")
 ![springboot](./imgs/frameworks/springboot.svg "springboot")
 ![dubbo](./imgs/frameworks/dubbo.svg "dubbo")
-![JavaScript](./imgs/frameworks/JavaScript.svg "JavaScript")
-![Bootstrap](./imgs/frameworks/Bootstrap.svg "Bootstrap")
 ![SpringCloud](./imgs/frameworks/SpringCloud.svg "SpringCloud")
+![cas](./imgs/frameworks/cas.png "cas")
+![pac4j](./imgs/frameworks/pac4j.png "pac4j")
+
+![JavaScript](./imgs/frameworks/JavaScript.svg "JavaScript")
+![jquery](./imgs/frameworks/jquery.svg "jquery")
+![Bootstrap](./imgs/frameworks/Bootstrap.svg "Bootstrap")
+
+![swagger](./imgs/frameworks/swagger.svg "swagger")
 
 ## Tools & SDKs
 ![intellijidea](./imgs/tools/intellijidea.svg "intellijidea")
 ![pycharm](./imgs/tools/pycharm.svg "pycharm")
+![appium](./imgs/tools/appium.svg "appium")
 ![vim](./imgs/tools/vim.svg "vim")
-![dubbo](./imgs/tools/appium.svg "appium")
+
 ![github](./imgs/tools/github.svg "github")
 ![gitlab](./imgs/tools/gitlab.svg "gitlab")
 
+![docker](./imgs/tools/docker.svg "docker")
+![nginx](./imgs/tools/nginx.svg "nginx")
+![jenkins](./imgs/tools/jenkins.svg "jenkins")
+
+![elastic](./imgs/tools/elastic.svg "elastic")
+![logstash](./imgs/tools/logstash.svg "logstash")
+![kibana](./imgs/tools/kibana.svg "kibana")
+
+![maven](./imgs/tools/maven.svg "maven")
+![nexus](./imgs/tools/nexus.svg "nexus")
