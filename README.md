@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 活到老学到老!
 
->
+> 目标
   1. 源码剖析和框架定制能力
   2. 平台性能分析和调优能力
   3. 分布式架构设计能力
