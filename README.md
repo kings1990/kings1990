@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 加油!!!🤪
 
+[我的idea 插件](https://plugins.jetbrains.com/plugin/15763-serializable-java)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt)](https://github.com/kings1990)
 
 
