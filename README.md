@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt)](https://github.com/kings1990)
 
+> My Intellij plugin  
+
 [![My Intellij plugin](/imgs/intellij-serializable-java.png "intellij-serializable-java")](https://plugins.jetbrains.com/plugin/15763-serializable-java)
 
 [comment]: <> (#### Language)
