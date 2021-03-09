@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 [![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web)
 
 > My Intellij plugin  
+
 [![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=intellij-java-serializable)](https://github.com/kings1990/intellij-java-serializable)
 
-> Language
+> Language  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kings1990&layout=compact&hide=css,html)](https://github.com/kings1990)
 
 
