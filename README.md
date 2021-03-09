@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true)](https://github.com/kings1990)
 
 [![rap2-generator](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator)](https://github.com/kings1990/rap2-generator)
+[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kings1990&layout=compact&hide=css,html)](https://github.com/kings1990/rap2-generator)
 
