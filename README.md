@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt)](https://github.com/kings1990)
 
+[![rap2-generator](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator)](https://github.com/kings1990/rap2-generator)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kings1990&layout=compact&hide=css,html)](https://github.com/kings1990/rap2-generator)
+
+
 > My Intellij plugin  
 
 [![My Intellij plugin](/imgs/intellij-serializable-java.png "intellij-serializable-java")](https://plugins.jetbrains.com/plugin/15763-serializable-java)
