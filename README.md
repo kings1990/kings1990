@@ -34,12 +34,16 @@ Here are some ideas to get you started:
 [![rap2-generator](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator)](https://github.com/kings1990/rap2-generator)
 [![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kings1990&layout=compact&hide=css,html)](https://github.com/kings1990/rap2-generator)
-
-
 > My Intellij plugin  
+[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=intellij-java-serializable)](https://github.com/kings1990/intellij-java-serializable)
 
-[![My Intellij plugin](/imgs/intellij-serializable-java.png "intellij-serializable-java")](https://plugins.jetbrains.com/plugin/15763-serializable-java)
+> Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kings1990&layout=compact&hide=css,html)](https://github.com/kings1990)
+
+
+
+
+[comment]: <> ([![My Intellij plugin]&#40;/imgs/intellij-serializable-java.png "intellij-serializable-java"&#41;]&#40;https://plugins.jetbrains.com/plugin/15763-serializable-java&#41;)
 
 [comment]: <> (#### Language)
 
