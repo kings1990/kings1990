@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 
 > My Intellij plugin  
 
-[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=intellij-java-serializable)](https://github.com/kings1990/intellij-java-serializable)
 [![Fast Request](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=fast-request)](https://github.com/kings1990/fast-request)
+
+[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=intellij-java-serializable)](https://github.com/kings1990/intellij-java-serializable)
+
 
 > Component
 
