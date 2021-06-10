@@ -31,13 +31,15 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true)](https://github.com/kings1990)
 
-[![Fast Request](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=fast-request)](https://github.com/kings1990/fast-request)
-[![rap2-generator](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator)](https://github.com/kings1990/rap2-generator)
-[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web)
-
 > My Intellij plugin  
 
 [![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=intellij-java-serializable)](https://github.com/kings1990/intellij-java-serializable)
+[![Fast Request](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=fast-request)](https://github.com/kings1990/fast-request)
+
+> Component
+
+[![rap2-generator](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator)](https://github.com/kings1990/rap2-generator)
+[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web)
 
 > Language  
 
