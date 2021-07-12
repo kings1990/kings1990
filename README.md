@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 > My Intellij plugin  
 
-[![Fast Request](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=fast-request)](https://github.com/kings1990/fast-request)
+[![Fast Request](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=fast-request-doc)](https://github.com/kings1990/fast-request-doc)
 
 [![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=intellij-java-serializable)](https://github.com/kings1990/intellij-java-serializable)
 
