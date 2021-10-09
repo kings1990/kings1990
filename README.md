@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 活到老学到老!
-
+<!-- 
 > 目标
   1. 源码剖析和框架定制能力
   2. 平台性能分析和调优能力
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   7. 容器技术应用和集群化部署能力
   8. 海量数据搜索和实时计算能力
 
-加油!!!🤪
+加油!!!🤪 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true)](https://github.com/kings1990)
 
