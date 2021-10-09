@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true)](https://github.com/kings1990)
 
-> My Intellij plugin  
+<!-- > My Intellij plugin  
 
 [![Fast Request](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=fast-request)](https://github.com/kings1990/fast-request)
 [![Fast Request Doc](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=restful-fast-request-doc)](https://github.com/kings1990/restful-fast-request-doc)
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 > Component
 
 [![rap2-generator](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator)](https://github.com/kings1990/rap2-generator)
-[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web)
+[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web) -->
 
 > Language  
 
