@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-活到老学到老!
 <!-- 
+活到老学到老!
+
 > 目标
   1. 源码剖析和框架定制能力
   2. 平台性能分析和调优能力
@@ -42,11 +43,12 @@ Here are some ideas to get you started:
 > Component
 
 [![rap2-generator](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator)](https://github.com/kings1990/rap2-generator)
-[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web) -->
+[![rap2-generator-web](https://github-readme-stats.vercel.app/api/pin/?username=kings1990&repo=rap2-generator-web)](https://github.com/kings1990/rap2-generator-web) 
 
 > Language  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kings1990&layout=compact&hide=css,html)](https://github.com/kings1990)
+-->
 
 
 
