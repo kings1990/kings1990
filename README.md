@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 加油!!!🤪 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true)](https://github.com/kings1990)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true)](https://github.com/kings1990) -->
 
 <!-- > My Intellij plugin  
 
