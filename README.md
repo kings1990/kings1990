@@ -14,7 +14,7 @@ easier...faster...stronger...
 
 **Tools:**
 
-<code><a href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a></code>
+<code><a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a></code>
 
 
 <!--
