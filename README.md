@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true"/>
 
-### Hi brothers, I'm Kings! 👋
+## Hi little brothers, I'm Kings! 👋
 
 easier...faster...stronger...
 
