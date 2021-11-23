@@ -1,4 +1,21 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true"/>
+
+### Hi brothers, I'm Kings! 👋
+
 easier...faster...stronger...
+
+**Languages:**  
+
+<code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/java.svg"></code>
+<code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/python.svg"></code>
+<code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/html.svg"></code>
+<code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/js.svg"></code>
+
+
+**Tools:**
+
+<code><a href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a></code>
+
 
 <!--
 **kings1990/kings1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
