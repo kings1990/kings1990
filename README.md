@@ -1,19 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true"/>
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true"/>
 
 ## Hi little brothers, I'm Kings! 👋
-
 easier...faster...stronger...
 
-**Languages:**  
-
+**Languages**  
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/java.svg"></code>
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/python.svg"></code>
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/html.svg"></code>
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/js.svg"></code>
 
 
-**Tools:**
-
+**Tools**  
 <code><a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a></code>
 
 
