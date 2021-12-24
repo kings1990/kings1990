@@ -3,6 +3,9 @@
 ## Hi little brothers, I'm Kings! 👋
 easier...faster...stronger...
 
+Member of [Dromara](https://dromara.org/)<img height="40" src="https://github.com/kings1990/kings1990/blob/master/imgs/work.gif">
+
+
 **Languages**  
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/java.svg"></code>
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/python.svg"></code>
