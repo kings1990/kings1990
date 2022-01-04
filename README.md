@@ -1,4 +1,4 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=cobalt&count_private=true"/>
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=vue-dark&count_private=true"/>
 
 ## Hi little brothers, I'm Kings! 👋
 easier...faster...stronger...
@@ -13,7 +13,7 @@ Member of [Dromara](https://dromara.org/)<img height="40" src="https://github.co
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/js.svg"></code>
 
 
-**Tools**  
+**Idea plugin**  
 <code><a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a></code>
 
 
