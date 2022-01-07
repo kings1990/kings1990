@@ -1,10 +1,7 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=vue-dark&count_private=true"/>
-
 ## Hi little brothers, I'm Kings! 👋
 easier...faster...stronger...
 
-Member of [Dromara](https://dromara.org/)<img height="40" src="https://github.com/kings1990/kings1990/blob/master/imgs/work.gif">
-
+Member of [Dromara](https://dromara.org/)<img height="30" src="https://github.com/kings1990/kings1990/blob/master/imgs/work.gif">
 
 **Languages**  
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/java.svg"></code>
@@ -16,6 +13,10 @@ Member of [Dromara](https://dromara.org/)<img height="40" src="https://github.co
 **Idea plugin**  
 <code><a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a></code>
 
+⚡plugin@ [https://plugins.jetbrains.com/plugin/16988-restful-fast-request](https://plugins.jetbrains.com/plugin/16988-restful-fast-request)
+
+
+<img  src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=vue-dark&count_private=true"/>
 
 <!--
 **kings1990/kings1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
