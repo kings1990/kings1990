@@ -13,8 +13,11 @@ Member of [Dromara](https://dromara.org/)<img height="30" src="https://github.co
 **Idea plugin**  
 <code><a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a></code>
 
-⚡plugin@ [https://plugins.jetbrains.com/plugin/16988-restful-fast-request](https://plugins.jetbrains.com/plugin/16988-restful-fast-request)
+>Fast Request 
 
+* Plugin homepage [https://plugins.jetbrains.com/plugin/16988-restful-fast-request](https://plugins.jetbrains.com/plugin/16988-restful-fast-request)
+* English document [https://dromara.org/fast-request/en](https://dromara.org/fast-request/en)
+* 中文文档 [http://dromara.gitee.io/fast-request](http://dromara.gitee.io/fast-request)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=vue-dark&count_private=true"/>
 
