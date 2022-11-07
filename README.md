@@ -8,7 +8,7 @@
 
 
 **Idea plugin**  
-<code><a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a></code>
+<a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequestLogo.svg"></a>
 
 Member of [Dromara](https://dromara.org/)<img height="30" src="https://github.com/kings1990/kings1990/blob/master/imgs/work.gif">
 
