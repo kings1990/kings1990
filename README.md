@@ -1,14 +1,13 @@
 ## Hi little brothers, I'm Kings! 👋
 
+**My IntelliJ Idea plugin**  
+<a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequestLogo.svg"> <img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a>
+
 **Languages**  
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/java.svg"></code>
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/python.svg"></code>
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/html.svg"></code>
 <code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/js.svg"></code>
-
-
-**Idea plugin**  
-<a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequestLogo.svg"> <img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a>
 
 Member of [Dromara](https://dromara.org/)<img height="30" src="https://github.com/kings1990/kings1990/blob/master/imgs/work.gif">
 
