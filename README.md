@@ -21,6 +21,7 @@ easier...faster...stronger...
 
 <img  src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=vue-dark&count_private=true"/>
 
+![Vistor](https://visitor-badge.glitch.me/badge?page_id=kings1990)
 <!--
 **kings1990/kings1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
