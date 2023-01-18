@@ -1,6 +1,6 @@
 ## Hi little brothers, I'm Kings! 👋
 
-**My IntelliJ Idea plugin**  
+**IntelliJ Idea plugin**  
 <a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequestLogo.svg"> <img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a>
 
 **Languages**  
