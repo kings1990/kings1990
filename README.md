@@ -21,7 +21,14 @@ easier...faster...stronger...
 * English document [https://dromara.org/fast-request/en](https://dromara.org/fast-request/en)
 * 中文文档 [http://dromara.gitee.io/fast-request](http://dromara.gitee.io/fast-request)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=kings1990&show_icons=true&theme=vue-dark&count_private=true"/>
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8969637" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8969637&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @kings1990" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8969637&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 
 <!--
