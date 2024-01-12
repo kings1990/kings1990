@@ -16,8 +16,8 @@ easier...faster...stronger...
 >Fast Request 
 
 * Plugin homepage [https://plugins.jetbrains.com/plugin/16988-restful-fast-request](https://plugins.jetbrains.com/plugin/16988-restful-fast-request)
-* English document [https://dromara.org/fast-request/en](https://dromara.org/fast-request/en)
-* 中文文档 [http://dromara.gitee.io/fast-request](http://dromara.gitee.io/fast-request)
+* English document [https://api-buddy.com/en](https://api-buddy.com)
+* 中文文档 [https://api-buddy.cn](https://api-buddy.cn)
 
 
 
