@@ -16,10 +16,8 @@ easier...faster...stronger...
 
 >Fast Request 
 
-* Plugin homepage [https://plugins.jetbrains.com/plugin/16988-restful-fast-request](https://plugins.jetbrains.com/plugin/16988-restful-fast-request)
-* English document [https://api-buddy.com/en](https://api-buddy.com)
-* 中文文档 [https://api-buddy.cn](https://api-buddy.cn)
-
+* Plugin homepage [https://plugins.jetbrains.com/organizations/kings1990](https://plugins.jetbrains.com/organizations/kings1990)
+* Website [https://api-buddy.com/en](https://api-buddy.com/en)
 
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8969637" target="_blank" style="display: block" align="center">
