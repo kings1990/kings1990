@@ -1,4 +1,4 @@
-[![Kings](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=500&color=21D789&width=435&lines=Hi+little+brothers%2C+I'm+Kings!+%F0%9F%91%8B+;Welcome+to+my+Github!+;Hope+my+project+can+help+you.;My+slogan%3A+easier...faster...stronger...)](https://github.com/dromara/fast-request)
+[![Kings](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=500&color=21D789&width=435&lines=Hi+little+brothers%2C+I'm+Kings!+%F0%9F%91%8B+;Welcome+to+my+Github!+;Hope+my+project+can+help+you.;My+slogan%3A+easier...faster...stronger...)](https://github.com/dromara/fast-request)
 
 
 About me: [https://bento.me/darkings](https://bento.me/darkings)
