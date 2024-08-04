@@ -19,6 +19,8 @@ easier...faster...stronger...
 * Plugin homepage [https://plugins.jetbrains.com/organizations/kings1990](https://plugins.jetbrains.com/organizations/kings1990)
 * Website [https://api-buddy.com/en](https://api-buddy.com/en)
 
+### Activity
+![](https://raw.githubusercontent.com/kings1990/kings1990/output/github-contribution-grid-snake.svg)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8969637" target="_blank" style="display: block" align="center">
   <picture>
