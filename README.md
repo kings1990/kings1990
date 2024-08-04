@@ -22,6 +22,19 @@ About me: [https://bento.me/darkings](https://bento.me/darkings)
   </picture>
 </a>
 
+### Thanks for visiting :heart:
+
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/kings1990/count.svg"/>
+
+counting of visitors to this page in this section started from May 8, 2022
+
+<a href="http://s01.flagcounter.com/more/mrp"><img src="https://s01.flagcounter.com/countxl/mrp/bg_FFFFFF/txt_000000/border_000000/columns_4/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+</p>
+
+
 
 <!--
 **kings1990/kings1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
