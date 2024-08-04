@@ -1,20 +1,13 @@
-## Hi little brothers, I'm Kings! 👋
+[![Kings](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=500&color=21D789&width=435&lines=Hi+little+brothers%2C+I'm+Kings!+%F0%9F%91%8B+;Welcome+to+my+Github!+;Hope+my+project+can+help+you.;My+slogan%3A+easier...faster...stronger...)](https://github.com/dromara/fast-request)
+
 
 About me: [https://bento.me/darkings](https://bento.me/darkings)
 
+
+
+> IDEA plugin Fast Request
+
 <a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequestLogo.svg"> <img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a>
-
-**Languages**  
-<code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/java.svg"></code>
-<code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/python.svg"></code>
-<code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/html.svg"></code>
-<code><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/language/js.svg"></code>
-
-Member of [Dromara](https://dromara.org/)<img height="30" src="https://github.com/kings1990/kings1990/blob/master/imgs/work.gif">
-
-easier...faster...stronger...
-
->Fast Request 
 
 * Plugin homepage [https://plugins.jetbrains.com/organizations/kings1990](https://plugins.jetbrains.com/organizations/kings1990)
 * Website [https://api-buddy.com/en](https://api-buddy.com/en)
