@@ -1,3 +1,5 @@
+![](kings.png)
+
 [![Kings](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=500&color=21D789&width=435&lines=Hi+little+brothers%2C+I'm+Kings!+%F0%9F%91%8B+;Welcome+to+my+Github!+;Hope+my+project+can+help+you.;My+slogan%3A+easier...faster...stronger...)](https://github.com/dromara/fast-request)
 
 
@@ -5,9 +7,11 @@ About me: [https://bento.me/darkings](https://bento.me/darkings)
 
 
 
-> IDEA plugin Fast Request
+> IDEA plugin
 
-<a title="Restful Fast Request" href="https://plugins.jetbrains.com/plugin/16988-restful-fast-request"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequestLogo.svg"> <img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequest.svg"></a>
+<a title="Fast Request" href="https://plugins.jetbrains.com/plugin/16988-fast-request--api-buddy"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/fastRequestLogo.svg"></a>
+<a title="IBlog" href="https://plugins.jetbrains.com/plugin/24920-iblog/edit"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/iblog.svg"></a>
+<a title="Bean Assistant" href="https://plugins.jetbrains.com/plugin/24576-bean-assistant"><img height="20" src="https://github.com/kings1990/kings1990/blob/master/imgs/beanAssistant.svg"></a>
 
 * Plugin homepage [https://plugins.jetbrains.com/organizations/kings1990](https://plugins.jetbrains.com/organizations/kings1990)
 * Website [https://api-buddy.com/en](https://api-buddy.com/en)
