@@ -34,7 +34,8 @@ About me: [https://bento.me/darkings](https://bento.me/darkings)
 
 counting of visitors to this page in this section started from Aug 4, 2024
 
-<a href="http://s01.flagcounter.com/more/mrp"><img src="https://s01.flagcounter.com/countxl/mrp/bg_FFFFFF/txt_000000/border_000000/columns_4/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<!-- <a href="http://s01.flagcounter.com/more/mrp"><img src="https://s01.flagcounter.com/countxl/mrp/bg_FFFFFF/txt_000000/border_000000/columns_4/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>-->
 
 </p>
 
